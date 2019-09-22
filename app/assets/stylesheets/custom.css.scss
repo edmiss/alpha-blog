@@ -3,6 +3,18 @@ $navbar-default-bg: #333;
 
 @import "bootstrap-sprockets";
 @import "bootstrap";
+
+.article-actions {
+  border-top: 1px solid #eaeaea;
+  padding-bottom: 5px;
+}
+
+.description{
+  margin-top:0;
+}
+
+
+
 #logo{
     float:left;
     font-size:1.7em;
